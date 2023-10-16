@@ -32,7 +32,7 @@ This app is licensed under the GNU License.
 Here is a simple animation that you can use in your README.md file:
 
 ```markdown
-[![Screenshot App](screenshotgif.gif)](screenshotgif.gif)
+[![Screenshot App](screenshotgif.gif)]
 ```
 
 
