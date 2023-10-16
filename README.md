@@ -29,11 +29,7 @@ This app is licensed under the GNU License.
 
 **Animation**
 
-Here is a simple animation that you can use in your README.md file:
-
-```markdown
 [![Screenshot App](screenshotgif.gif)]
-```
 
 
 **Example usage**
